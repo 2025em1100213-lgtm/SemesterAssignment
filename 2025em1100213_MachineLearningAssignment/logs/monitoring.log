@@ -1,8 +1,0 @@
-2026-08-07 07:57:39,135 | INFO | Running data quality check on 7043 rows from data/processed/training_data.csv
-2026-08-07 07:57:39,138 | INFO | Data quality check passed: no issues found.
-2026-08-07 07:57:39,156 | INFO | Drift check passed: no significant feature drift detected.
-2026-08-07 07:57:39,156 | INFO | Monitoring summary written to artifacts/eval/monitoring_report.json
-2026-08-08 04:45:44,578 | INFO | Running data quality check on 7043 rows from data/processed/training_data.csv
-2026-08-08 04:45:44,583 | INFO | Data quality check passed: no issues found.
-2026-08-08 04:45:44,623 | INFO | Drift check passed: no significant feature drift detected.
-2026-08-08 04:45:44,624 | INFO | Monitoring summary written to artifacts/eval/monitoring_report.json
