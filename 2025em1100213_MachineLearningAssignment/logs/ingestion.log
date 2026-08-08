@@ -1,0 +1,22 @@
+2026-08-07 07:57:26,687 | INFO | Staged 705 rows -> data/incoming/customers_2024-01-01.csv
+2026-08-07 07:57:26,692 | INFO | Staged 705 rows -> data/incoming/customers_2024-01-02.csv
+2026-08-07 07:57:26,698 | INFO | Staged 705 rows -> data/incoming/customers_2024-01-03.csv
+2026-08-07 07:57:26,703 | INFO | Staged 704 rows -> data/incoming/customers_2024-01-04.csv
+2026-08-07 07:57:26,708 | INFO | Staged 704 rows -> data/incoming/customers_2024-01-05.csv
+2026-08-07 07:57:26,712 | INFO | Staged 704 rows -> data/incoming/customers_2024-01-06.csv
+2026-08-07 07:57:26,717 | INFO | Staged 704 rows -> data/incoming/customers_2024-01-07.csv
+2026-08-07 07:57:26,722 | INFO | Staged 704 rows -> data/incoming/customers_2024-01-08.csv
+2026-08-07 07:57:26,727 | INFO | Staged 704 rows -> data/incoming/customers_2024-01-09.csv
+2026-08-07 07:57:26,732 | INFO | Staged 704 rows -> data/incoming/customers_2024-01-10.csv
+2026-08-07 07:57:26,732 | INFO | Staged 7043 total rows across 10 simulated daily files from source=data/raw/Telco-Customer-Churn.csv
+2026-08-07 07:57:26,736 | INFO | Read 705 rows from customers_2024-01-01.csv
+2026-08-07 07:57:26,741 | INFO | Read 705 rows from customers_2024-01-02.csv
+2026-08-07 07:57:26,745 | INFO | Read 705 rows from customers_2024-01-03.csv
+2026-08-07 07:57:26,749 | INFO | Read 704 rows from customers_2024-01-04.csv
+2026-08-07 07:57:26,752 | INFO | Read 704 rows from customers_2024-01-05.csv
+2026-08-07 07:57:26,756 | INFO | Read 704 rows from customers_2024-01-06.csv
+2026-08-07 07:57:26,759 | INFO | Read 704 rows from customers_2024-01-07.csv
+2026-08-07 07:57:26,763 | INFO | Read 704 rows from customers_2024-01-08.csv
+2026-08-07 07:57:26,767 | INFO | Read 704 rows from customers_2024-01-09.csv
+2026-08-07 07:57:26,772 | INFO | Read 704 rows from customers_2024-01-10.csv
+2026-08-07 07:57:26,808 | INFO | INGEST COMPLETE | files=10 | new_rows_read=7043 | table_rows_before=0 | table_rows_after=7043 | date=2026-08-07
